@@ -1,0 +1,16 @@
+{
+  "name": "ai-study-buddy",
+  "version": "1.0.0",
+  "description": "Personalized study assistant using Xiaomi MiMo for flashcard generation, quiz creation, and concept explanation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "xiaomi",
+    "mimo"
+  ],
+  "author": "mail-eth",
+  "license": "MIT"
+}
