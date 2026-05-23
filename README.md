@@ -7,7 +7,6 @@ Personalized study assistant using Xiaomi MiMo for flashcard generation, quiz cr
 - Powered by Xiaomi MiMo API
 - Simple and intuitive interface
 - Real-time processing
-- Token consumption: 300K tokens/day
 
 ## 🚀 Quick Start
 
